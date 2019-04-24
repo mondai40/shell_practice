@@ -1,0 +1,5 @@
+function countUp0to100() {
+	for (( i=0; i<=100; i++ )); do
+		echo $i
+	done
+}
